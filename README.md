@@ -38,8 +38,3 @@ Predict which telecom customers are most likely to churn, and understand why —
 - 📈 Trained predictive model with 80%+ accuracy
 - 📊 Executive dashboard to support business decision-making
 
----
-
-## Connect
-
-Feel free to reach out if you'd like to collaborate or discuss data projects!
